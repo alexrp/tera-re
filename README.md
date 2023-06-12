@@ -7,10 +7,14 @@ I use this repository to share my reverse engineering artifacts for
 should do.
 
 Under [releases](https://github.com/alexrp/tera-re/releases) you will find both
-original and unpacked TERA binaries for the following versions:
+original and unpacked TERA binaries for the following revisions:
 
+* [r367239 (95.00)](https://github.com/alexrp/tera-re/releases/tag/r367239)
+  (unprotected)
 * [r377345 (100.02)](https://github.com/alexrp/tera-re/releases/tag/r377345)
+  (packed and unpacked)
 * [r387486 (115.02)](https://github.com/alexrp/tera-re/releases/tag/r387486)
+  (packed and unpacked)
 
 Note that all artifacts pushed to this repository via BinSync will be for the
 unpacked binary from r387486 only.
