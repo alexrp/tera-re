@@ -1,10 +1,7 @@
 # TERA Reverse Engineering
 
 I use this repository to share my reverse engineering artifacts for
-[TERA](https://en.wikipedia.org/wiki/TERA_(video_game)). You will need
-[BinSync](https://binsync.net) to consume this repository. I use
-[Binary Ninja](https://binary.ninja), but any decompiler supported by BinSync
-should do.
+[TERA](https://en.wikipedia.org/wiki/TERA_(video_game)).
 
 ## Binaries
 
@@ -17,9 +14,6 @@ original and unpacked TERA binaries for the following revisions:
   (packed and unpacked)
 * [r387486 (115.02)](https://github.com/alexrp/tera-re/releases/tag/r387486)
   (packed and unpacked)
-
-Note that all artifacts pushed to this repository via BinSync will be for the
-unpacked binary from r387486 only.
 
 ## Articles
 
