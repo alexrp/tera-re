@@ -15,6 +15,10 @@ original and unpacked TERA binaries for the following revisions:
 * [r387486 (115.02)](https://github.com/alexrp/tera-re/releases/tag/r387486)
   (packed and unpacked)
 
+Additionally, for revisions that I am actively reverse engineering, the release
+will also include a BNDB file usable by [Binary Ninja](https://binary.ninja).
+This file contains most of the 'juicy' bits - types, functions, variables, etc.
+
 ## Articles
 
 I have written a series of articles on the process of unpacking and repairing
