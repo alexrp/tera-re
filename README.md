@@ -24,9 +24,9 @@ This file contains most of the 'juicy' bits - types, functions, variables, etc.
 I have written a series of articles on the process of unpacking and repairing
 the TERA executable:
 
-* [Unpacking and Repairing the TERA Executable](https://www.alexrp.com/p/unpacking-and-repairing-the-tera-executable)
-* [Spring Cleaning in the Unpacked TERA Executable](https://www.alexrp.com/p/spring-cleaning-in-the-unpacked-tera-executable)
-* [Neutralizing Protection in the TERA Executable](https://www.alexrp.com/p/neutralizing-protection-in-the-tera-executable)
+* [Unpacking and Repairing the TERA Executable](https://alexrp.substack.com/p/unpacking-and-repairing-the-tera-executable)
+* [Spring Cleaning in the Unpacked TERA Executable](https://alexrp.substack.com/p/spring-cleaning-in-the-unpacked-tera-executable)
+* [Neutralizing Protection in the TERA Executable](https://alexrp.substack.com/p/neutralizing-protection-in-the-tera-executable)
 
 ## Tools
 
