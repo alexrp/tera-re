@@ -1,5 +1,9 @@
 # TERA Reverse Engineering
 
+> [!WARNING]
+> [This repository has moved to Codeberg.](https://codeberg.org/alexrp/tera-re)
+> The GitHub repository has been archived and will not see further development.
+
 I use this repository to share my reverse engineering artifacts for
 [TERA](https://en.wikipedia.org/wiki/TERA_(video_game)).
 
